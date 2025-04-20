@@ -150,13 +150,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=YiJiu-Li&theme=discord&row=1&column=6" alt="trophy" />
 </div>
 
-## 🏅 GitHub 成就
-
-<div align="center">
-    <p>我正在收集 GitHub 成就徽章！查看我已获得的徽章：</p>
-    <img src="https://img.shields.io/badge/GitHub-成就收集中-brightgreen?style=for-the-badge&logo=github" alt="GitHub 成就" />
-    <p>目标：Quickdraw, Pull Shark, YOLO, Galaxy Brain 等徽章收集</p>
-</div>
 
 ## 🚀 正在学习
 
