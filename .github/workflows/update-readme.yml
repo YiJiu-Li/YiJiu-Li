@@ -1,0 +1,35 @@
+name: 更新 GitHub 个人主页
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天 UTC 时间 0 点运行，相当于北京时间 8 点
+  workflow_dispatch:  # 允许手动触发工作流
+
+jobs:
+  update-readme:
+    name: 更新个人主页信息
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v3
+      
+      - name: 设置 Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+      
+      - name: 安装依赖
+        run: npm install axios moment
+
+      - name: 更新 README
+        run: |
+          node .github/scripts/update-readme.js
+        
+      - name: 提交更改
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "自动更新个人主页信息"
+          git push

@@ -1,0 +1,10 @@
+bug:
+  - '(bug|错误|问题|失效|崩溃)'
+feature:
+  - '(feature|功能|特性|新增)'
+documentation:
+  - '(documentation|文档|说明)'
+question:
+  - '(question|问题|疑问|如何)'
+enhancement:
+  - '(enhancement|改进|提升|优化)'
