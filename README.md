@@ -1,6 +1,5 @@
 <!-- 添加顶部横幅 -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4d7aff,100:9370DB&height=200&section=header&text=YiJiu-Li&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Unity开发者%20|%20C%23%20.NET专家%20|%20游戏开发爱好者&descAlignY=50&descAlign=50)
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4d7aff,100:9370DB&height=200&section=header&text=YiJiu-Li&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Unity开发者%20|%20C%23%20.NET%20|%20游戏开发爱好者&descAlignY=50&descAlign=50)
 
 <div align="center">
     <!-- 个人简介打字效果 -->
@@ -17,18 +16,6 @@
     <a href="https://github.com/YiJiu-Li"><img src="https://img.shields.io/badge/GitHub-YiJiu--Li-181717?style=flat-square&logo=github&logoColor=white"/></a>
     <a href="mailto:1228263639@qq.com"><img src="https://img.shields.io/badge/Email-1228263639@qq.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </div>
-<!-- 添加GitHub实时统计 -->
-<div align="center">
-    <!-- 使用更可靠的访问量计数器 -->
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=YiJiu-Li.YiJiu-Li" alt="visitors" />
-    <a href="https://github.com/YiJiu-Li?tab=followers">
-        <img src="https://img.shields.io/github/followers/YiJiu-Li?label=关注者&style=flat-square" alt="followers" />
-    </a>
-    <a href="https://github.com/YiJiu-Li?tab=repositories">
-        <img src="https://img.shields.io/github/stars/YiJiu-Li?label=收获星标&style=flat-square&color=yellow" alt="stars" />
-    </a>
-</div>
-
 
 <br>
 
