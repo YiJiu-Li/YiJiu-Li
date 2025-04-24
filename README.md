@@ -163,7 +163,6 @@
 
 <div align="center">
     <!-- 天气展示 -->
-    <img src="https://weather-icon.journeyad.repl.co/@杭州?v=1" align="right">
     <h3>感谢您访问我的个人主页！</h3>
     <!-- 添加杭州定位地图 - 使用高德地图API(支持中文) -->
     <a href="https://amap.com/search?query=杭州" target="_blank">
