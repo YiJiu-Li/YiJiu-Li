@@ -162,7 +162,6 @@
 ---
 
 <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=YiJiu-Li.YiJiu-Li" alt="visitors" />
     <!-- 天气展示 -->
     <img src="https://weather-icon.journeyad.repl.co/@杭州?v=1" align="right">
     <h3>感谢您访问我的个人主页！</h3>
