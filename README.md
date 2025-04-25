@@ -175,11 +175,16 @@
 🕒 最后更新于: 2025-04-25 02:30:21 (UTC)
 
 ## 📊 GitHub 统计
-<!-- 这里是您的GitHub统计数据 -->
+<!-- GITHUB_STATS_START -->
+<!-- GITHUB_STATS_END -->
 
 ## ⭐ 我最近加星的仓库
 <!-- RECENT_STARS_START -->
 <!-- RECENT_STARS_END -->
+
+## 🔄 最近活动
+<!-- RECENT_ACTIVITY_START -->
+<!-- RECENT_ACTIVITY_END -->
 
 <!-- 此README由GitHub Actions自动更新 -->
 
