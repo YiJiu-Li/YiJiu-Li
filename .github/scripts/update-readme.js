@@ -1,56 +1,72 @@
-const fs = require('fs');
-const path = require('path');
 const axios = require('axios');
+const fs = require('fs');
 const moment = require('moment');
 
-// README.md 文件路径
-const readmePath = path.join(process.cwd(), 'README.md');
+// 获取当前UTC时间
+const getCurrentTime = () => {
+  return moment().format('YYYY-MM-DD HH:mm:ss');
+};
 
-async function updateReadme() {
+// 获取最近加星的仓库
+async function getRecentlyStarredRepos(username) {
   try {
-    // 读取当前 README 内容
-    let readmeContent = fs.readFileSync(readmePath, 'utf8');
-
-    // 获取当前时间
-    const currentDate = moment().format('YYYY年MM月DD日 HH:mm:ss');
-    
-    // 更新最后更新时间
-    const lastUpdatedSection = `## 🔄 最后更新
-
-<div align="center">
-  <p>此页面最后更新于：${currentDate}</p>
-  <p><i>此信息由 GitHub Actions 自动更新</i></p>
-</div>`;
-
-    // 检查是否已经有最后更新部分
-    if (readmeContent.includes('## 🔄 最后更新')) {
-      // 替换已有的最后更新部分
-      readmeContent = readmeContent.replace(
-        /## 🔄 最后更新[\s\S]*?<\/div>/m,
-        lastUpdatedSection
-      );
-    } else {
-      // 在页脚前添加最后更新部分
-      const footerMarker = '![Footer](https://capsule-render.vercel.app';
-      if (readmeContent.includes(footerMarker)) {
-        readmeContent = readmeContent.replace(
-          footerMarker,
-          `${lastUpdatedSection}\n\n${footerMarker}`
-        );
-      } else {
-        // 如果没有找到页脚标记，则添加到文件末尾
-        readmeContent += `\n\n${lastUpdatedSection}\n`;
+    const response = await axios.get(`https://api.github.com/users/${username}/starred?sort=created&direction=desc&per_page=3`, {
+      headers: {
+        'Accept': 'application/vnd.github.v3+json',
+        // 如果您有GitHub令牌，可以添加授权来增加API请求限制
+        // 'Authorization': `token ${process.env.GITHUB_TOKEN}`
       }
-    }
-
-    // 写入更新后的 README 内容
-    fs.writeFileSync(readmePath, readmeContent, 'utf8');
-    console.log('README.md 已成功更新');
+    });
+    return response.data.map(repo => ({
+      name: repo.name,
+      url: repo.html_url,
+      description: repo.description || '无描述',
+      stars: repo.stargazers_count,
+      owner: repo.owner.login
+    }));
   } catch (error) {
-    console.error('更新 README 时出错:', error);
-    process.exit(1);
+    console.error('获取加星仓库失败:', error);
+    return [];
   }
 }
 
-// 执行更新
+async function updateReadme() {
+  try {
+    // 读取当前README内容
+    const currentReadme = fs.readFileSync('README.md', 'utf8');
+
+    // 获取最近加星的仓库
+    const starredRepos = await getRecentlyStarredRepos('YiJiu-Li');
+
+    // 构建仓库列表HTML
+    let reposList = '';
+    if (starredRepos.length === 0) {
+      reposList = '最近没有加星任何仓库';
+    } else {
+      reposList = starredRepos.map(repo =>
+        `- [${repo.owner}/${repo.name}](${repo.url}) - ${repo.description} (⭐ ${repo.stars})`
+      ).join('\n');
+    }
+
+    // 更新README中的最近加星部分
+    const updatedReadme = currentReadme.replace(
+      /<!-- RECENT_STARS_START -->[\s\S]*<!-- RECENT_STARS_END -->/,
+      `<!-- RECENT_STARS_START -->\n${reposList}\n<!-- RECENT_STARS_END -->`
+    );
+
+    // 更新时间
+    const currentTime = getCurrentTime();
+    const readmeWithUpdatedTime = updatedReadme.replace(
+      /🕒 最后更新于: .*?\(/,
+      `🕒 最后更新于: ${currentTime} (`
+    );
+
+    // 写入更新后的README
+    fs.writeFileSync('README.md', readmeWithUpdatedTime);
+    console.log('README.md 已更新，添加了最近加星的仓库');
+  } catch (error) {
+    console.error('更新README失败:', error);
+  }
+}
+
 updateReadme();
