@@ -172,7 +172,7 @@
 </div>
 
 ## 🔄 最后更新
-🕒 最后更新于: 2025-04-25 02:30:21 (UTC)
+🕒 最后更新于: 2025-04-25 02:42:48 (UTC)
 
 ## 📊 GitHub 统计
 <!-- GITHUB_STATS_START -->
@@ -180,6 +180,9 @@
 
 ## ⭐ 我最近加星的仓库
 <!-- RECENT_STARS_START -->
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience (⭐ 55915)
+- [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版) (⭐ 10738)
+- [ProjectUnifree/unifree](https://github.com/ProjectUnifree/unifree) - 无描述 (⭐ 1424)
 <!-- RECENT_STARS_END -->
 
 ## 🔄 最近活动
