@@ -2,9 +2,9 @@ const axios = require('axios');
 const fs = require('fs');
 const moment = require('moment');
 
-// 获取当前UTC时间
+// 获取当前北京时间
 const getCurrentTime = () => {
-  return moment().format('YYYY-MM-DD HH:mm:ss');
+  return moment().utcOffset('+0800').format('YYYY-MM-DD HH:mm:ss');
 };
 
 // 获取最近加星的仓库
@@ -132,11 +132,26 @@ async function updateReadme() {
       ).join('\n');
     }
     
-    // 构建用户统计信息
+    // 构建用户统计信息，使用更美观的格式
     let statsInfo = '';
     if (userStats) {
       statsInfo = `
-公开仓库: ${userStats.publicRepos} | 关注者: ${userStats.followers} | 关注中: ${userStats.following} | 加入时间: ${userStats.createdAt}
+<div align="center">
+  <table>
+    <tr>
+      <td><b>📂 公开仓库</b></td>
+      <td><b>👥 关注者</b></td>
+      <td><b>👀 关注中</b></td>
+      <td><b>📅 加入时间</b></td>
+    </tr>
+    <tr>
+      <td>${userStats.publicRepos}</td>
+      <td>${userStats.followers}</td>
+      <td>${userStats.following}</td>
+      <td>${userStats.createdAt}</td>
+    </tr>
+  </table>
+</div>
       `.trim();
     } else {
       statsInfo = '暂无统计数据';
@@ -171,7 +186,7 @@ async function updateReadme() {
     const currentTime = getCurrentTime();
     const readmeWithUpdatedTime = updatedReadme.replace(
       /🕒 最后更新于: .*?\(/,
-      `🕒 最后更新于: ${currentTime} (`
+      `🕒 最后更新于: ${currentTime} (北京时间) (`
     );
 
     // 写入更新后的README

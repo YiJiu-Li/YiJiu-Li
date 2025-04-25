@@ -134,8 +134,13 @@
 ## 📊 GitHub 统计
 
 <div align="center">
+  <!-- GitHub 统计卡片 -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YiJiu-Li&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiJiu-Li&layout=compact&langs_count=8&theme=tokyonight"/>
+
+  <!-- GITHUB_STATS_START -->
+  <!-- 此处将由自动化脚本更新统计数据 -->
+  <!-- GITHUB_STATS_END -->
 </div>
 
 ## 🔥 连续贡献
@@ -171,13 +176,8 @@
     <p>🏙️ <b>杭州</b> - 中国浙江省省会，有着"人间天堂"的美誉</p>
 </div>
 
-## 🔄 最后更新
-🕒 最后更新于: 2025-04-25 02:57:04 (UTC)
 
-## 📊 GitHub 统计
-<!-- GITHUB_STATS_START -->
-公开仓库: 14 | 关注者: 1 | 关注中: 9 | 加入时间: 2017-06-14
-<!-- GITHUB_STATS_END -->
+
 
 ## ⭐ 我最近加星的仓库
 <!-- RECENT_STARS_START -->
@@ -192,6 +192,9 @@
 - [Unity-Versions](https://github.com/YiJiu-Li/Unity-Versions) - 更新 Versions.html 文件 (2025-04-23)
 - [FolderComments](https://github.com/YiJiu-Li/FolderComments) - 提交md 修改 (2025-04-18)
 <!-- RECENT_ACTIVITY_END -->
+
+## 🔄 最后更新
+🕒 最后更新于: 2025-04-25 02:57:04 (UTC)
 
 <!-- 此README由GitHub Actions自动更新 -->
 
