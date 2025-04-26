@@ -148,7 +148,7 @@
       <td><b>📅 加入时间</b></td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>1</td>
       <td>9</td>
       <td>2017-06-14</td>
@@ -196,20 +196,20 @@
 
 ## ⭐ 我最近加星的仓库
 <!-- RECENT_STARS_START -->
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience (⭐ 55923)
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience (⭐ 56003)
 - [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版) (⭐ 10738)
-- [ProjectUnifree/unifree](https://github.com/ProjectUnifree/unifree) - 无描述 (⭐ 1424)
+- [ProjectUnifree/unifree](https://github.com/ProjectUnifree/unifree) - 无描述 (⭐ 1422)
 <!-- RECENT_STARS_END -->
 
 ## 🔄 最近活动
 <!-- RECENT_ACTIVITY_START -->
-- [YiJiu-Li](https://github.com/YiJiu-Li/YiJiu-Li) - 更新README.md和自动更新脚本 (2025-04-25)
-- [Unity-Versions](https://github.com/YiJiu-Li/Unity-Versions) - 更新 Versions.html 文件 (2025-04-23)
-- [FolderComments](https://github.com/YiJiu-Li/FolderComments) - 提交md 修改 (2025-04-18)
+- [ZhuZhuPanoramaDoc](https://github.com/YiJiu-Li/ZhuZhuPanoramaDoc) - 更新 README.md：添加全景下载器文档的详细介绍 (2025-04-25)
+- [BuildScriptProject](https://github.com/YiJiu-Li/BuildScriptProject) - Merge branch 'main' of https://github.com/YiJiu-Li/BuildScriptProject (2025-04-25)
+- [YiJiu-Li](https://github.com/YiJiu-Li/YiJiu-Li) - 自动更新个人主页信息 (2025-04-25)
 <!-- RECENT_ACTIVITY_END -->
 
 ## 🔄 最后更新
-🕒 最后更新于: 2025-04-25 11:05:39 (北京时间) (UTC)
+🕒 最后更新于: 2025-04-26 09:50:06 (北京时间) (北京时间) (UTC)
 
 <!-- 此README由GitHub Actions自动更新 -->
 
