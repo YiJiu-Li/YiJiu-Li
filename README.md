@@ -196,20 +196,20 @@
 
 ## ⭐ 我最近加星的仓库
 <!-- RECENT_STARS_START -->
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only). (⭐ 84218)
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. (⭐ 31238)
 - [nashnie/nashnie.github.io](https://github.com/nashnie/nashnie.github.io) - 认真对待每一行代码---技术博客 (⭐ 3)
-- [TWO-ICE/Awesome-NAS-Docker](https://github.com/TWO-ICE/Awesome-NAS-Docker) - 一个专注于 NAS 和 Docker 部署的开源项目合集，覆盖 AI、开发、数据管理、多媒体、运维等场景，提供一键式部署指南和实用教程，让 NAS 变身全能生产力工具！ (⭐ 325)
-- [songtianlun/mirrorGit](https://github.com/songtianlun/mirrorGit) - mirror your Github to Gitea.  (⭐ 60)
 <!-- RECENT_STARS_END -->
 
 ## 🔄 最近活动
 <!-- RECENT_ACTIVITY_START -->
-- [YiJiu-Li](https://github.com/YiJiu-Li/YiJiu-Li) - 自动更新个人主页信息 (2025-05-11)
+- [YiJiu-Li](https://github.com/YiJiu-Li/YiJiu-Li) - 自动更新个人主页信息 (2025-05-12)
 - [ZhuZhuPanoramaDoc](https://github.com/YiJiu-Li/ZhuZhuPanoramaDoc) - 添加图片放大功能，优化用户体验 (2025-04-26)
 - [BuildScriptProject](https://github.com/YiJiu-Li/BuildScriptProject) - Merge branch 'main' of https://github.com/YiJiu-Li/BuildScriptProject (2025-04-25)
 <!-- RECENT_ACTIVITY_END -->
 
 ## 🔄 最后更新
-🕒 最后更新于: 2025-05-12 10:00:40 (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (UTC)
+🕒 最后更新于: 2025-05-13 09:58:02 (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (UTC)
 
 <!-- 此README由GitHub Actions自动更新 -->
 
