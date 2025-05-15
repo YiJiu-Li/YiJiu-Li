@@ -196,20 +196,20 @@
 
 ## ⭐ 我最近加星的仓库
 <!-- RECENT_STARS_START -->
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only). (⭐ 84312)
-- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. (⭐ 32267)
-- [nashnie/nashnie.github.io](https://github.com/nashnie/nashnie.github.io) - 认真对待每一行代码---技术博客 (⭐ 3)
+- [jaxry/panorama-to-cubemap](https://github.com/jaxry/panorama-to-cubemap) - Convert an equirectangular panorama to six cube faces (⭐ 399)
+- [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer (⭐ 10194)
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only). (⭐ 84426)
 <!-- RECENT_STARS_END -->
 
 ## 🔄 最近活动
 <!-- RECENT_ACTIVITY_START -->
-- [YiJiu-Li](https://github.com/YiJiu-Li/YiJiu-Li) - 自动更新个人主页信息 (2025-05-13)
+- [YiJiu-Li](https://github.com/YiJiu-Li/YiJiu-Li) - 自动更新个人主页信息 (2025-05-14)
 - [ZhuZhuPanoramaDoc](https://github.com/YiJiu-Li/ZhuZhuPanoramaDoc) - 添加图片放大功能，优化用户体验 (2025-04-26)
 - [BuildScriptProject](https://github.com/YiJiu-Li/BuildScriptProject) - Merge branch 'main' of https://github.com/YiJiu-Li/BuildScriptProject (2025-04-25)
 <!-- RECENT_ACTIVITY_END -->
 
 ## 🔄 最后更新
-🕒 最后更新于: 2025-05-14 09:56:40 (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (UTC)
+🕒 最后更新于: 2025-05-15 09:55:32 (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (UTC)
 
 <!-- 此README由GitHub Actions自动更新 -->
 
