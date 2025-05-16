@@ -148,7 +148,7 @@
       <td><b>📅 加入时间</b></td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>1</td>
       <td>10</td>
       <td>2017-06-14</td>
@@ -196,20 +196,20 @@
 
 ## ⭐ 我最近加星的仓库
 <!-- RECENT_STARS_START -->
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。 (⭐ 15949)
 - [jaxry/panorama-to-cubemap](https://github.com/jaxry/panorama-to-cubemap) - Convert an equirectangular panorama to six cube faces (⭐ 399)
-- [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer (⭐ 10194)
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only). (⭐ 84426)
+- [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer (⭐ 10204)
 <!-- RECENT_STARS_END -->
 
 ## 🔄 最近活动
 <!-- RECENT_ACTIVITY_START -->
-- [YiJiu-Li](https://github.com/YiJiu-Li/YiJiu-Li) - 自动更新个人主页信息 (2025-05-14)
-- [ZhuZhuPanoramaDoc](https://github.com/YiJiu-Li/ZhuZhuPanoramaDoc) - 添加图片放大功能，优化用户体验 (2025-04-26)
-- [BuildScriptProject](https://github.com/YiJiu-Li/BuildScriptProject) - Merge branch 'main' of https://github.com/YiJiu-Li/BuildScriptProject (2025-04-25)
+- [FolderComments](https://github.com/YiJiu-Li/FolderComments) - 提交md 修改 (2025-04-18)
+- [pano-vue-editor](https://github.com/YiJiu-Li/pano-vue-editor) - 初始化提交：全景编辑器项目 (2025-05-15)
+- [YiJiu-Li](https://github.com/YiJiu-Li/YiJiu-Li) - 自动更新个人主页信息 (2025-05-15)
 <!-- RECENT_ACTIVITY_END -->
 
 ## 🔄 最后更新
-🕒 最后更新于: 2025-05-15 09:55:32 (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (UTC)
+🕒 最后更新于: 2025-05-16 09:58:22 (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (UTC)
 
 <!-- 此README由GitHub Actions自动更新 -->
 
