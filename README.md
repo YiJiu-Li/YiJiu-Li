@@ -139,7 +139,22 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiJiu-Li&layout=compact&langs_count=8&theme=tokyonight"/>
 
   <!-- GITHUB_STATS_START -->
-暂无统计数据
+<div align="center">
+  <table>
+    <tr>
+      <td><b>📂 公开仓库</b></td>
+      <td><b>👥 关注者</b></td>
+      <td><b>👀 关注中</b></td>
+      <td><b>📅 加入时间</b></td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>1</td>
+      <td>10</td>
+      <td>2017-06-14</td>
+    </tr>
+  </table>
+</div>
 <!-- GITHUB_STATS_END -->
 </div>
 
@@ -181,16 +196,20 @@
 
 ## ⭐ 我最近加星的仓库
 <!-- RECENT_STARS_START -->
-最近没有加星任何仓库
+- [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app (⭐ 3986)
+- [synctv-org/synctv](https://github.com/synctv-org/synctv) - Synchronized viewing, theater, live streaming, video (⭐ 1553)
+- [FrozenGEE/compose](https://github.com/FrozenGEE/compose) - 分享compose模板，方便新人，老手快速部署docker容器，注释特别多，不懂看注释和最上方的链接，文字量巨大，劝退预警XD，懒得建站建博客，直接拿github当博客lol (⭐ 921)
 <!-- RECENT_STARS_END -->
 
 ## 🔄 最近活动
 <!-- RECENT_ACTIVITY_START -->
-最近没有公开活动
+- [YiJiu-Li](https://github.com/YiJiu-Li/YiJiu-Li) - 自动更新个人主页信息 (2025-07-09)
+- [pano-vue-editor](https://github.com/YiJiu-Li/pano-vue-editor) - 更新全景编辑器代码：修改App、PanoViewer、服务和工具类，完善视图组件功能 (2025-05-16)
+- [FolderComments](https://github.com/YiJiu-Li/FolderComments) - 提交md 修改 (2025-04-18)
 <!-- RECENT_ACTIVITY_END -->
 
 ## 🔄 最后更新
-🕒 最后更新于: 2025-07-09 08:33:26 (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (UTC)
+🕒 最后更新于: 2025-07-10 08:32:49 (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (UTC)
 
 <!-- 此README由GitHub Actions自动更新 -->
 
