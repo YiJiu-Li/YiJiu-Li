@@ -196,20 +196,20 @@
 
 ## ⭐ 我最近加星的仓库
 <!-- RECENT_STARS_START -->
-- [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app (⭐ 7258)
+- [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app (⭐ 7320)
 - [synctv-org/synctv](https://github.com/synctv-org/synctv) - Synchronized viewing, theater, live streaming, video (⭐ 2218)
-- [FrozenGEE/compose](https://github.com/FrozenGEE/compose) - 分享compose模板，方便新人，老手快速部署docker容器，注释特别多，不懂看注释和最上方的链接，文字量巨大，劝退预警XD，懒得建站建博客，直接拿github当博客lol (⭐ 1097)
+- [FrozenGEE/compose](https://github.com/FrozenGEE/compose) - 分享compose模板，方便新人，老手快速部署docker容器，注释特别多，不懂看注释和最上方的链接，文字量巨大，劝退预警XD，懒得建站建博客，直接拿github当博客lol (⭐ 1099)
 <!-- RECENT_STARS_END -->
 
 ## 🔄 最近活动
 <!-- RECENT_ACTIVITY_START -->
-- [YiJiu-Li](https://github.com/YiJiu-Li/YiJiu-Li) - 自动更新个人主页信息 (2025-11-18)
+- [YiJiu-Li](https://github.com/YiJiu-Li/YiJiu-Li) - 自动更新个人主页信息 (2025-11-19)
 - [unity-multiplayer-game](https://github.com/YiJiu-Li/unity-multiplayer-game) - Add comprehensive .gitignore file (2025-10-31)
 - [UnityAdbTools](https://github.com/YiJiu-Li/UnityAdbTools) - 添加作者信息和分割线到ADBDeviceConnector，更新Templates文件 (2025-10-23)
 <!-- RECENT_ACTIVITY_END -->
 
 ## 🔄 最后更新
-🕒 最后更新于: 2025-11-19 08:32:41 (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (UTC)
+🕒 最后更新于: 2025-11-20 08:31:45 (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (北京时间) (UTC)
 
 <!-- 此README由GitHub Actions自动更新 -->
 
