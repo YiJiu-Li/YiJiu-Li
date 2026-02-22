@@ -139,22 +139,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiJiu-Li&layout=compact&langs_count=8&theme=tokyonight"/>
 
   <!-- GITHUB_STATS_START -->
-<div align="center">
-  <table>
-    <tr>
-      <td><b>📂 公开仓库</b></td>
-      <td><b>👥 关注者</b></td>
-      <td><b>👀 关注中</b></td>
-      <td><b>📅 加入时间</b></td>
-    </tr>
-    <tr>
-      <td>23</td>
-      <td>5</td>
-      <td>10</td>
-      <td>2017-06-14</td>
-    </tr>
-  </table>
-</div>
+暂无统计数据
 <!-- GITHUB_STATS_END -->
 </div>
 
@@ -196,16 +181,12 @@
 
 ## ⭐ 我最近加星的仓库
 <!-- RECENT_STARS_START -->
-- [homuler/MediaPipeUnityPlugin](https://github.com/homuler/MediaPipeUnityPlugin) - Unity plugin to run MediaPipe (⭐ 2286)
-- [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app (⭐ 10295)
-- [synctv-org/synctv](https://github.com/synctv-org/synctv) - Synchronized viewing, theater, live streaming, video (⭐ 2376)
+最近没有加星任何仓库
 <!-- RECENT_STARS_END -->
 
 ## 🔄 最近活动
 <!-- RECENT_ACTIVITY_START -->
-- [YiJiu-Li](https://github.com/YiJiu-Li/YiJiu-Li) - 自动更新个人主页信息 (2026-02-20)
-- [Unity-Versions](https://github.com/YiJiu-Li/Unity-Versions) - 更新 Versions.html 文件 (2025-04-23)
-- [subtitle-editor](https://github.com/YiJiu-Li/subtitle-editor) - Add CSS and JavaScript files (2026-01-17)
+最近没有公开活动
 <!-- RECENT_ACTIVITY_END -->
 
 ## 🔄 最后更新
