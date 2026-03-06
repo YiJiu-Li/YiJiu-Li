@@ -196,16 +196,16 @@
 
 ## ⭐ 我最近加星的仓库
 <!-- RECENT_STARS_START -->
-- [homuler/MediaPipeUnityPlugin](https://github.com/homuler/MediaPipeUnityPlugin) - Unity plugin to run MediaPipe (⭐ 2298)
-- [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app (⭐ 10590)
-- [synctv-org/synctv](https://github.com/synctv-org/synctv) - Synchronized viewing, theater, live streaming, video (⭐ 2383)
+- [homuler/MediaPipeUnityPlugin](https://github.com/homuler/MediaPipeUnityPlugin) - Unity plugin to run MediaPipe (⭐ 2302)
+- [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app (⭐ 10618)
+- [synctv-org/synctv](https://github.com/synctv-org/synctv) - Synchronized viewing, theater, live streaming, video (⭐ 2384)
 <!-- RECENT_STARS_END -->
 
 ## 🔄 最近活动
 <!-- RECENT_ACTIVITY_START -->
+- [subtitle-editor](https://github.com/YiJiu-Li/subtitle-editor) - update  更新部分编码逻辑 (2026-03-05)
+- [YiJiu-Li](https://github.com/YiJiu-Li/YiJiu-Li) - 自动更新个人主页信息 (2026-03-05)
 - [XYHubTools](https://github.com/YiJiu-Li/XYHubTools) - chore: Add CHANGELOG.md.meta file (2026-03-04)
-- [YiJiu-Li](https://github.com/YiJiu-Li/YiJiu-Li) - 自动更新个人主页信息 (2026-03-04)
-- [Unity-Versions](https://github.com/YiJiu-Li/Unity-Versions) - 更新 Versions.html 文件 (2025-04-23)
 <!-- RECENT_ACTIVITY_END -->
 
 ## 🔄 最后更新
