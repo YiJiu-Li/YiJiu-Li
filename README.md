@@ -197,15 +197,15 @@
 ## ⭐ 我最近加星的仓库
 <!-- RECENT_STARS_START -->
 - [3dugc/Area-Target-Scanner](https://github.com/3dugc/Area-Target-Scanner) - 无描述 (⭐ 14)
-- [tanweai/pua](https://github.com/tanweai/pua) - 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement. (⭐ 15258)
+- [tanweai/pua](https://github.com/tanweai/pua) - 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement. (⭐ 15412)
 - [homuler/MediaPipeUnityPlugin](https://github.com/homuler/MediaPipeUnityPlugin) - Unity plugin to run MediaPipe (⭐ 2333)
 <!-- RECENT_STARS_END -->
 
 ## 🔄 最近活动
 <!-- RECENT_ACTIVITY_START -->
-- [YiJiu-Li](https://github.com/YiJiu-Li/YiJiu-Li) - 自动更新个人主页信息 (2026-04-06)
+- [subtitle-editor](https://github.com/YiJiu-Li/subtitle-editor) - fix: 按模型大小分级no_speech_threshold，修复小模型漏识别末尾段；默认模型改为small (2026-04-07)
+- [YiJiu-Li](https://github.com/YiJiu-Li/YiJiu-Li) - 自动更新个人主页信息 (2026-04-07)
 - [Unity-Versions](https://github.com/YiJiu-Li/Unity-Versions) - 更新 Versions.html 文件 (2025-04-23)
-- [XYHubTools](https://github.com/YiJiu-Li/XYHubTools) - update  模型导入插件 (2026-03-13)
 <!-- RECENT_ACTIVITY_END -->
 
 ## 🔄 最后更新
