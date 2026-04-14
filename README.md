@@ -148,7 +148,7 @@
       <td><b>📅 加入时间</b></td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>7</td>
       <td>10</td>
       <td>2017-06-14</td>
@@ -197,15 +197,15 @@
 ## ⭐ 我最近加星的仓库
 <!-- RECENT_STARS_START -->
 - [3dugc/Area-Target-Scanner](https://github.com/3dugc/Area-Target-Scanner) - 无描述 (⭐ 14)
-- [tanweai/pua](https://github.com/tanweai/pua) - 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement. (⭐ 15881)
-- [homuler/MediaPipeUnityPlugin](https://github.com/homuler/MediaPipeUnityPlugin) - Unity plugin to run MediaPipe (⭐ 2338)
+- [tanweai/pua](https://github.com/tanweai/pua) - 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement. (⭐ 15974)
+- [homuler/MediaPipeUnityPlugin](https://github.com/homuler/MediaPipeUnityPlugin) - Unity plugin to run MediaPipe (⭐ 2339)
 <!-- RECENT_STARS_END -->
 
 ## 🔄 最近活动
 <!-- RECENT_ACTIVITY_START -->
-- [YiJiu-Li](https://github.com/YiJiu-Li/YiJiu-Li) - 自动更新个人主页信息 (2026-04-12)
+- [rokid-adb-manager](https://github.com/YiJiu-Li/rokid-adb-manager) - [update] 更新 (2026-04-13)
+- [YiJiu-Li](https://github.com/YiJiu-Li/YiJiu-Li) - 自动更新个人主页信息 (2026-04-13)
 - [Unity-Versions](https://github.com/YiJiu-Li/Unity-Versions) - 更新 Versions.html 文件 (2025-04-23)
-- [subtitle-editor](https://github.com/YiJiu-Li/subtitle-editor) - fix: 按模型大小分级no_speech_threshold，修复小模型漏识别末尾段；默认模型改为small (2026-04-07)
 <!-- RECENT_ACTIVITY_END -->
 
 ## 🔄 最后更新
