@@ -197,14 +197,14 @@
 ## ⭐ 我最近加星的仓库
 <!-- RECENT_STARS_START -->
 - [3dugc/Area-Target-Scanner](https://github.com/3dugc/Area-Target-Scanner) - 无描述 (⭐ 14)
-- [tanweai/pua](https://github.com/tanweai/pua) - 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement. (⭐ 16416)
-- [homuler/MediaPipeUnityPlugin](https://github.com/homuler/MediaPipeUnityPlugin) - Unity plugin to run MediaPipe (⭐ 2346)
+- [tanweai/pua](https://github.com/tanweai/pua) - 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement. (⭐ 16474)
+- [homuler/MediaPipeUnityPlugin](https://github.com/homuler/MediaPipeUnityPlugin) - Unity plugin to run MediaPipe (⭐ 2348)
 <!-- RECENT_STARS_END -->
 
 ## 🔄 最近活动
 <!-- RECENT_ACTIVITY_START -->
-- [YiJiu-Li](https://github.com/YiJiu-Li/YiJiu-Li) - 自动更新个人主页信息 (2026-04-19)
-- [xhs-assistant](https://github.com/YiJiu-Li/xhs-assistant) - style: 优化配色平衡，减少大面积红色渐变视觉疲劳 (2026-04-17)
+- [xhs-assistant](https://github.com/YiJiu-Li/xhs-assistant) - fix: 修复模型下拉框为空和知识库统计字段不匹配 (2026-04-20)
+- [YiJiu-Li](https://github.com/YiJiu-Li/YiJiu-Li) - 自动更新个人主页信息 (2026-04-20)
 - [rokid-adb-manager](https://github.com/YiJiu-Li/rokid-adb-manager) - [update] 更新 (2026-04-13)
 <!-- RECENT_ACTIVITY_END -->
 
