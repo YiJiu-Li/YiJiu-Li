@@ -148,7 +148,7 @@
       <td><b>📅 加入时间</b></td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>8</td>
       <td>10</td>
       <td>2017-06-14</td>
@@ -196,16 +196,16 @@
 
 ## ⭐ 我最近加星的仓库
 <!-- RECENT_STARS_START -->
-- [playcanvas/supersplat](https://github.com/playcanvas/supersplat) - 3D Gaussian Splat Editor (⭐ 7344)
-- [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) - GPT-Image-2 API and Prompts (⭐ 13921)
-- [3dugc/Area-Target-Scanner](https://github.com/3dugc/Area-Target-Scanner) - 无描述 (⭐ 14)
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. (⭐ 77700)
+- [playcanvas/supersplat](https://github.com/playcanvas/supersplat) - 3D Gaussian Splat Editor (⭐ 7693)
+- [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) - GPT-Image-2 API and Prompts (⭐ 14053)
 <!-- RECENT_STARS_END -->
 
 ## 🔄 最近活动
 <!-- RECENT_ACTIVITY_START -->
-- [YiJiu-Li](https://github.com/YiJiu-Li/YiJiu-Li) - 自动更新个人主页信息 (2026-05-11)
+- [Invoice-Manager](https://github.com/YiJiu-Li/Invoice-Manager) - feat: v0.4.0 - smart OCR-first mode, user system, accuracy improvements (2026-05-12)
+- [YiJiu-Li](https://github.com/YiJiu-Li/YiJiu-Li) - 自动更新个人主页信息 (2026-05-12)
 - [xhs-assistant](https://github.com/YiJiu-Li/xhs-assistant) - feat: 预发布整理 — 清理死代码、补全认证/配额/内容守护模块、更新文档 (2026-04-21)
-- [rokid-adb-manager](https://github.com/YiJiu-Li/rokid-adb-manager) - [update] 更新 (2026-04-13)
 <!-- RECENT_ACTIVITY_END -->
 
 ## 🔄 最后更新
