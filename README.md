@@ -196,14 +196,14 @@
 
 ## ⭐ 我最近加星的仓库
 <!-- RECENT_STARS_START -->
-- [r1n7aro/Locus](https://github.com/r1n7aro/Locus) - The open source Unity Dev Agent (⭐ 483)
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. (⭐ 79096)
-- [playcanvas/supersplat](https://github.com/playcanvas/supersplat) - 3D Gaussian Splat Editor (⭐ 8862)
+- [r1n7aro/Locus](https://github.com/r1n7aro/Locus) - The open source Unity Dev Agent (⭐ 487)
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. (⭐ 79166)
+- [playcanvas/supersplat](https://github.com/playcanvas/supersplat) - 3D Gaussian Splat Editor (⭐ 8904)
 <!-- RECENT_STARS_END -->
 
 ## 🔄 最近活动
 <!-- RECENT_ACTIVITY_START -->
-- [YiJiu-Li](https://github.com/YiJiu-Li/YiJiu-Li) - 自动更新个人主页信息 (2026-05-30)
+- [YiJiu-Li](https://github.com/YiJiu-Li/YiJiu-Li) - 自动更新个人主页信息 (2026-05-31)
 - [Invoice-Manager](https://github.com/YiJiu-Li/Invoice-Manager) - feat: v0.4.0 - smart OCR-first mode, user system, accuracy improvements (2026-05-12)
 - [xhs-assistant](https://github.com/YiJiu-Li/xhs-assistant) - feat: 预发布整理 — 清理死代码、补全认证/配额/内容守护模块、更新文档 (2026-04-21)
 <!-- RECENT_ACTIVITY_END -->
