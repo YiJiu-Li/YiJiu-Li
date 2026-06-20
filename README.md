@@ -196,15 +196,15 @@
 
 ## ⭐ 我最近加星的仓库
 <!-- RECENT_STARS_START -->
-- [freestylefly/CodexGuide](https://github.com/freestylefly/CodexGuide) - CodexGuide：面向全球初学者、创作者、开发者与团队的 Codex 实践指南 (⭐ 2061)
-- [VitoHowe/glm-coding](https://github.com/VitoHowe/glm-coding) - 无描述 (⭐ 496)
-- [r1n7aro/Locus](https://github.com/r1n7aro/Locus) - The open source Unity Dev Agent (⭐ 532)
+- [freestylefly/CodexGuide](https://github.com/freestylefly/CodexGuide) - CodexGuide：面向全球初学者、创作者、开发者与团队的 Codex 实践指南 (⭐ 2087)
+- [VitoHowe/glm-coding](https://github.com/VitoHowe/glm-coding) - 无描述 (⭐ 513)
+- [r1n7aro/Locus](https://github.com/r1n7aro/Locus) - The open source Unity Dev Agent (⭐ 535)
 <!-- RECENT_STARS_END -->
 
 ## 🔄 最近活动
 <!-- RECENT_ACTIVITY_START -->
+- [YiJiu-Li](https://github.com/YiJiu-Li/YiJiu-Li) - 自动更新个人主页信息 (2026-06-19)
 - [XYHubTools](https://github.com/YiJiu-Li/XYHubTools) - Add VS Code stdio MCP config (2026-06-18)
-- [YiJiu-Li](https://github.com/YiJiu-Li/YiJiu-Li) - 自动更新个人主页信息 (2026-06-18)
 - [Unity-Versions](https://github.com/YiJiu-Li/Unity-Versions) - 更新 Versions.html 文件 (2025-04-23)
 <!-- RECENT_ACTIVITY_END -->
 
