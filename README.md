@@ -196,14 +196,14 @@
 
 ## ⭐ 我最近加星的仓库
 <!-- RECENT_STARS_START -->
-- [Tencent-Hunyuan/HY-World-2.0](https://github.com/Tencent-Hunyuan/HY-World-2.0) - HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds (⭐ 2432)
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. (⭐ 85937)
-- [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 (⭐ 68437)
+- [Tencent-Hunyuan/HY-World-2.0](https://github.com/Tencent-Hunyuan/HY-World-2.0) - HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds (⭐ 2434)
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. (⭐ 86362)
+- [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 (⭐ 68580)
 <!-- RECENT_STARS_END -->
 
 ## 🔄 最近活动
 <!-- RECENT_ACTIVITY_START -->
-- [YiJiu-Li](https://github.com/YiJiu-Li/YiJiu-Li) - 自动更新个人主页信息 (2026-07-24)
+- [YiJiu-Li](https://github.com/YiJiu-Li/YiJiu-Li) - 自动更新个人主页信息 (2026-07-25)
 - [XYHubTools](https://github.com/YiJiu-Li/XYHubTools) - Git push notifier: show author/commit details and add current project path button (2026-06-29)
 - [Unity-Versions](https://github.com/YiJiu-Li/Unity-Versions) - 更新 Versions.html 文件 (2025-04-23)
 <!-- RECENT_ACTIVITY_END -->
