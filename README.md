@@ -196,16 +196,16 @@
 
 ## ⭐ 我最近加星的仓库
 <!-- RECENT_STARS_START -->
-- [wy51ai/floorplan-3d](https://github.com/wy51ai/floorplan-3d) - 无描述 (⭐ 3337)
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (⭐ 422875)
-- [TencentCloud/Octop](https://github.com/TencentCloud/Octop) - A smarter, self-hosted AI assistant — multi-user, multi-agent. (⭐ 11482)
+- [wy51ai/floorplan-3d](https://github.com/wy51ai/floorplan-3d) - 无描述 (⭐ 3403)
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (⭐ 427033)
+- [TencentCloud/Octop](https://github.com/TencentCloud/Octop) - A smarter, self-hosted AI assistant — multi-user, multi-agent. (⭐ 11524)
 <!-- RECENT_STARS_END -->
 
 ## 🔄 最近活动
 <!-- RECENT_ACTIVITY_START -->
-- [YiJiu-Li](https://github.com/YiJiu-Li/YiJiu-Li) - 自动更新个人主页信息 (2026-11-02)
-- [XYHubTools](https://github.com/YiJiu-Li/XYHubTools) - fix(compat): 去掉 Unity 2022.2 才有的 FindForPackageName，恢复 2021.3 可编译 (2026-10-23)
 - [xhs-assistant](https://github.com/YiJiu-Li/xhs-assistant) - feat: 预发布整理 — 清理死代码、补全认证/配额/内容守护模块、更新文档 (2026-04-21)
+- [YiJiu-Li](https://github.com/YiJiu-Li/YiJiu-Li) - 自动更新个人主页信息 (2026-11-03)
+- [XYHubTools](https://github.com/YiJiu-Li/XYHubTools) - fix(compat): 去掉 Unity 2022.2 才有的 FindForPackageName，恢复 2021.3 可编译 (2026-10-23)
 <!-- RECENT_ACTIVITY_END -->
 
 ## 🔄 最后更新
